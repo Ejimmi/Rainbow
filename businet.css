@@ -1,0 +1,141 @@
+
+.submit1{
+    border-radius: 20px;
+    width: 150px;
+    color: white;
+    border-color: white;
+    
+}
+
+.Professional{
+    position: absolute;
+    top: 200px;
+    color: white;
+}
+
+
+
+.downbutton button{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px 20px 0px 20px ;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+    
+}
+.navcode :hover{
+    color: white
+    
+    
+
+}
+.btn {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    border-radius: 20px;
+  }
+  
+  .btn:hover {
+    background-color: rgb(91, 91, 235);
+    color: white;
+  }
+
+  .btn1:hover {
+    background-color: tomato;
+    color:white;
+    
+  }
+
+  .img00{
+    margin: 50px 0px 50px 50px;
+    
+    
+
+  }
+
+  .img1{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    position: relative;
+    left: 100px;
+    margin-top: 20px;
+  }
+.roll{
+   box-shadow: #ddd;
+    
+}
+
+.roll {
+        
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+
+  
+  }
+ 
+  .badge {
+    font-weight: 700;
+    color: #3375ec;
+    background: #e5ebf7;
+    text-transform: uppercase;
+    letter-spacing: .075em;
+}
+
+.badge {
+    display: inline-block;
+    padding: 7px 19px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 14px;
+}
+.image2{
+    border-radius: 20px;
+}
+
+ 
+  .zoom:hover {
+    transform: scale(0.9); /* (110% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+
+
+  .Image3{
+    
+    position: absolute;
+    
+    
+  }
+
+  .line4{
+    margin-bottom: 100px;
+
+  }
+
+  .btn2:hover {
+    background-color: yellow;
+    color:white;
+}
+
+.midimage{
+   margin-bottom: 50px;
+   margin-top: 20px;
+   
+}
+
+
+   
