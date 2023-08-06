@@ -44,10 +44,10 @@
     border-radius: 20px;
   }
   
-  .btn:hover {
+  /* .btn:hover {
     background-color: rgb(91, 91, 235);
     color: white;
-  }
+  } */
 
   .btn1:hover {
     background-color: tomato;
@@ -137,5 +137,7 @@
    
 }
 
-
-   
+.display2 :hover{
+  background-color: blue;
+    color:white;
+}
